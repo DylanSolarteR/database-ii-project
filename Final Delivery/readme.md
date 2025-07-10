@@ -28,7 +28,7 @@ This repository includes the following final deliverables:
   [`Paper_Databases_II_Final_Version_Dylan_Solarte_Cristian_Casas.pdf`](./Paper_Databases_II_Final_Version_Dylan_Solarte_Cristian_Casas.pdf)
 
 - 🧾 **Final Project Report**  
-  [`Report_BD_II.pdf`](./Report_BD_II.pdf)
+  [`Report_BD_II.pdf`](https://github.com/DylanSolarteR/database-ii-project/blob/main/Final%20Delivery/Report_Drive_Clone.pdf)
 
 - 🖼️ **Poster**  
   [`Bases_Catch_Up_1.pdf`](./Bases_Catch_Up_1.pdf)
