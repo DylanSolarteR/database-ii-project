@@ -37,7 +37,7 @@ This repository includes the following final deliverables:
   [`Final Slides`](https://github.com/DylanSolarteR/database-ii-project/blob/main/Final%20Delivery/Report_Drive_Clone.pdf)
 
 - 💻 **Source Code and Implementation**
-  [`Repo Code`](https://github.com/CrisCasas/datosDummy_BD_ii)  
+    [`Repo Code`](https://github.com/CrisCasas/datosDummy_BD_ii)
 
 Each component reflects our work in data modeling, architecture design, implementation, and performance analysis.
 
