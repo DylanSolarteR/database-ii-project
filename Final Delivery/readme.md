@@ -34,7 +34,7 @@ This repository includes the following final deliverables:
   [`Final Poster.pdf`](https://github.com/DylanSolarteR/database-ii-project/blob/main/Final%20Delivery/Final%20Poster%20CristianCasas_DylanSolarte.pdf)
 
 - 📑 **Presentation Slides**  
-  [`Final Slides`](https://github.com/DylanSolarteR/database-ii-project/blob/main/Final%20Delivery/Report_Drive_Clone.pdf)
+  [`Final Slides`](https://github.com/DylanSolarteR/database-ii-project/blob/main/Final%20Delivery/Slides%20Drive%20Clone.pdf)
 
 - 💻 **Source Code and Implementation**
 
