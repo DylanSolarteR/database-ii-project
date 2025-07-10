@@ -25,19 +25,19 @@ Our project is a **Google Drive Clone**, a secure and scalable cloud-based file 
 This repository includes the following final deliverables:
 
 - 📄 **Paper in IEEE format**  
-  [`Paper_Databases_II_Final_Version_Dylan_Solarte_Cristian_Casas.pdf`](./Paper_Databases_II_Final_Version_Dylan_Solarte_Cristian_Casas.pdf)
+  [`Paper_Databases_II`](https://github.com/DylanSolarteR/database-ii-project/blob/main/Final%20Delivery/Final%20Poster%20CristianCasas_DylanSolarte.pdf)
 
 - 🧾 **Final Project Report**  
   [`Report_BD_II.pdf`](https://github.com/DylanSolarteR/database-ii-project/blob/main/Final%20Delivery/Report_Drive_Clone.pdf)
 
 - 🖼️ **Poster**  
-  [`Bases_Catch_Up_1.pdf`](./Bases_Catch_Up_1.pdf)
+  [`Final Poster.pdf`](https://github.com/DylanSolarteR/database-ii-project/blob/main/Final%20Delivery/Final%20Poster%20CristianCasas_DylanSolarte.pdf)
 
 - 📑 **Presentation Slides**  
-  *(Link or file can be added if hosted in the repository)*
+  [`Final Slides`](https://github.com/DylanSolarteR/database-ii-project/blob/main/Final%20Delivery/Report_Drive_Clone.pdf)
 
-- 💻 **Source Code and Implementation**  
-  See the `/src`, `/scripts`, or `/database` folders for the complete system and dataset loaders.
+- 💻 **Source Code and Implementation**
+  [`Repo Code`](https://github.com/CrisCasas/datosDummy_BD_ii)  
 
 Each component reflects our work in data modeling, architecture design, implementation, and performance analysis.
 
